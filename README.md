@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm a web developer from Brazil, passionate about learning and creating.
 - Pronouns: he/him
+- I haven't been able to keep my repositories or profile updated for a while now. As of late, I've solely been working on private or company-related projects
 ### Languages
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
